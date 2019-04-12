@@ -1,0 +1,23 @@
+package com.factory;
+
+import com.export.ExportFile;
+import com.export.ExportFinancialHtmlFile;
+import com.export.ExportStandardHtmlFile;
+
+public class ExportHtmlFactory implements ExportFactory {
+
+    @Override
+    public ExportFile factory(String type) {
+        if("standard".equals(type)){
+
+            return new ExportStandardHtmlFile();
+
+        }else if("financial".equals(type)){
+
+            return new ExportFinancialHtmlFile();
+
+        }else{
+            throw new RuntimeException("没有找到对象");
+        }
+    }
+}
