@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/单例/单例.iml" filepath="$PROJECT_DIR$/单例/单例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/单例/单例模式.iml" filepath="$PROJECT_DIR$/单例/单例模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" filepath="$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/建造模式/建造模式.iml" filepath="$PROJECT_DIR$/建造模式/建造模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" filepath="$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" />
