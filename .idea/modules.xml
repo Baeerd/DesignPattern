@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" filepath="$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/建造模式/建造模式.iml" filepath="$PROJECT_DIR$/建造模式/建造模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" filepath="$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/组合模式/组合模式.iml" />
     </modules>
   </component>
 </project>
