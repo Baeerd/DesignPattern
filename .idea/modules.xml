@@ -5,10 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/单例/单例模式.iml" filepath="$PROJECT_DIR$/单例/单例模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/原型模式/原型模式.iml" filepath="$PROJECT_DIR$/原型模式/原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/外观模式/外观模式.iml" filepath="$PROJECT_DIR$/外观模式/外观模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" filepath="$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/建造模式/建造模式.iml" filepath="$PROJECT_DIR$/建造模式/建造模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" filepath="$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/组合模式/组合模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/装饰模式/装饰模式.iml" filepath="$PROJECT_DIR$/装饰模式/装饰模式.iml" />
     </modules>
   </component>
 </project>
